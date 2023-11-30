@@ -1,5 +1,7 @@
 # IdentiPi_Hardware
 
+<img src="https://github.com/sbcshop/IdentiPi_Software/blob/main/images/IdentiPi_banner.jpg">
+
 Fingerprint HAT for Raspberry Pi Pico - an innovative solution for secure biometric authentication. This HAT is an ideal tool for developing unique projects, Experience rapid and stable fingerprint verification with our Fingerprint HAT.
 
 The hardware design files for IdentiPi are available on this GitHub.
